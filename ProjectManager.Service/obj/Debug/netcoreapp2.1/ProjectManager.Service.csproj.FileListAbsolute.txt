@@ -1,0 +1,15 @@
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.csproj.CoreCompileInputs.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.RazorAssemblyInfo.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.RazorAssemblyInfo.cs
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.AssemblyInfoInputs.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.AssemblyInfo.cs
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\nlog.config
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\ProjectManager.Service.deps.json
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\ProjectManager.Service.runtimeconfig.json
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\ProjectManager.Service.runtimeconfig.dev.json
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\ProjectManager.Service.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service\bin\Debug\netcoreapp2.1\ProjectManager.Service.pdb
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.RazorTargetAssemblyInfo.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.pdb
+C:\Master\ProjectManager.Service\ProjectManager.Service\obj\Debug\netcoreapp2.1\ProjectManager.Service.csprojAssemblyReference.cache

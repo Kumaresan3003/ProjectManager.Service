@@ -1,0 +1,17 @@
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.csprojAssemblyReference.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.csproj.CoreCompileInputs.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.AssemblyInfoInputs.cache
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.AssemblyInfo.cs
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.Tests.deps.json
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.Tests.runtimeconfig.json
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.Tests.runtimeconfig.dev.json
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.Tests.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.Tests.pdb
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\bin\Debug\netcoreapp2.1\ProjectManager.Service.pdb
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.csproj.CopyComplete
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.dll
+C:\Master\ProjectManager.Service\ProjectManager.Service.Tests\obj\Debug\netcoreapp2.1\ProjectManager.Service.Tests.pdb
